@@ -1,0 +1,6 @@
+[submodule "data/phytolrr"]
+	path = data/phytolrr
+	url = https://github.com/phytolrr/phytolrr.git
+[submodule "data/database"]
+	path = data/database
+	url = https://github.com/phytolrr/database.git
